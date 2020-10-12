@@ -1,3 +1,9 @@
 .container{
-    background-color: blue;
+    background-color: aqua;
+    width: 700px;
+}
+
+.Rolls{
+    border: 2em;
+    color: blue;
 }
